@@ -1,4 +1,4 @@
-# QA_Retrieval_Semantic_Similarity
+# QA Retrieval Semantic Similarity
 Implements semantic similarity methods to retrieve relevant responses in conversational QA. Identify, for each TEST prompt, the most similar prompt in TRAIN+DEV and return its corresponding response.
 Implements multiple text representations (TF-IDF, static embeddings, and an optional hybrid) and evaluates DEV performance with BLEU before producing TEST CSV submissions.
 
